@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Imageur</string>
+    <string name="retry">Retry</string>
+    <string name="search_hint">Search here</string>
+    <string name="add_comment">Add comment ..</string>
+    <string name="search_title">Shape</string>
+
+    <string name="image_detail_ratio">W,1:1</string>
+</resources>

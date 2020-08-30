@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_primary">#fff8f4</color>
+    <color name="color_primary_dark">#fff8f4</color>
+    <color name="color_on_primary">#222</color>
+
+
+    <color name="color_secondary">#005aab</color>
+    <color name="color_secondary_variant">#005aab</color>
+    <color name="color_on_secondary">#fff</color>
+
+
+    <color name="background_color">#fff8f4</color>
+    <color name="color_image_detail">#eee</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="button_border_color">#11000000</color>
+
+    <color name="text_color_900">#3c3c3c</color>
+    <color name="text_color_500">#c2c2c2</color>
+</resources>
